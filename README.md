@@ -8,6 +8,11 @@
 - Email: ngenziyves1@gmail.com
 - whatapp: +13252699130
 
+## Tools
+- Java
+- Python
+- C++
+
 ## Fun fact  
 - I am excited to be here today. 
 
@@ -15,3 +20,4 @@
 Yxn16a/Yxn16a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
