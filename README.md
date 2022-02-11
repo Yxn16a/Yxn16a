@@ -1,6 +1,6 @@
 ## 👋  Hi, I’m Yves Ngenzi
 
-#### I have been coding for the past four years using C++ and Python. However, I did later switch to Java. Java has been my favorite language of all time. Not only does it provide garbage collecting, but also it can be used to create standalone applications. I am interested in building android apps and back-end applications using Spring Boot. I am currently in a Java Bootcamp, and there is still a lot to learn, but the sky is the limit. I am eager to learn as much as I can. I post most of what I am learning here, and I plan to contribute to other projects as time allows it.
+#### I have been coding for the past four years using C++ and Python. However, I did later switch to Java. Java has been my favorite language of all time. Not only does it provide garbage collection, but also it can be used to create standalone applications. I am interested in building android apps and back-end applications using Spring Boot. I am currently in a Java Bootcamp, and there is still a lot to learn, but the sky is the limit. I am eager to learn as much as I can. I post most of what I am learning here, and I plan to contribute to other projects as time allows it.
 
 ## How to reach me
 
