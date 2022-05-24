@@ -14,6 +14,11 @@
 - JavaEE
 - Python
 - C++
+- Thymeleaf
+- bootstrap
+- html
+- css
+- javascript
 
 ## Fun fact  
 - I am excited to be here today. 
