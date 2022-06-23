@@ -6,7 +6,6 @@
 
 - OnLinkedin:  https://www.linkedin.com/in/ngenzi-yves-b308b4127/
 - Email: ngenziyves1@gmail.com
-- whatapp: +13252699130
 
 ## Tools
 - Java
