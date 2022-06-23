@@ -10,8 +10,7 @@
 
 ## Tools
 - Java
-- Spring boot 
-- JavaEE
+- Spring boot/JavaEE
 - Python
 - C++
 - Thymeleaf
@@ -19,6 +18,7 @@
 - html
 - css
 - javascript
+- Nodejs
 
 ## Fun fact  
 - I am excited to be here today. 
