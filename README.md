@@ -18,6 +18,7 @@
 - css
 - javascript
 - Nodejs
+-React
 
 ## Fun fact  
 - I am excited to be here today. 
