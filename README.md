@@ -1,6 +1,6 @@
 ## 👋  Hi, I’m Yves Ngenzi
 
-#### I have been coding for the past four years using C++ and Python. However, I am currently programming in Java using spring boot framework.I am passionate in back-end applications development using Spring Boot. I am currently in a Java Bootcamp, and there is still a lot to learn, but the sky is the limit. I am eager to learn as much as I can. I post most of what I am learning here, and I plan to contribute to other projects as time allows it.
+#### I have been coding for the past four years using C++ and Python. However, I am currently programming in Java using spring boot framework and Javascript using Node.js and express.I am passionate in back-end applications development using Spring Boot and Node.js, and I am eager to learn as much as I can. I post most of what I am learning here, and I plan to contribute to other projects as time allows it.
 
 ## How to reach me
 
