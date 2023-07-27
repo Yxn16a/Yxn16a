@@ -1,6 +1,6 @@
 ## 👋  Hi, I’m Yves Ngenzi
 
-#### I have been coding for the past four years using C++ and Python. However, I am currently programming in Java, node js, react js and react native. I am passionate about back-end application development using Spring Boot and Node.js and front-end development using React and Next js. I am eager to learn as much as I can. I post most of what I am learning here, and I do contribute to sequelize, and ORM javascript library, and I do plan to contribute to more projects as time allows it. 
+#### I have been coding for the past four years using C++ and Python. However, I am currently programming in Java, node js, react js and react native. I am passionate about back-end application development using Spring Boot and Node.js and front-end development using React/Next js and react native. I am eager to learn as much as I can every single day. I post most of what I am learning here, and I do contribute to sequelize, an  ORM javascript library, and I do plan to contribute to more projects as time allows it. 
 
 ## How to reach me
 
